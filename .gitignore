@@ -4,3 +4,4 @@
 *.jar
 *.war
 *.ear
+/AnimalHotel/nbproject/private/
